@@ -1,7 +1,7 @@
 ### Olá visitante 👋
 
 - 🤖Técnico em Informática (IFCE)
-- 📚 Estudante de Ciência da Computação no Instituto Federal do Ceará
+- 📚 Estudante de Ciência da Computação (IFCE)
 
 
 <div align="center">
